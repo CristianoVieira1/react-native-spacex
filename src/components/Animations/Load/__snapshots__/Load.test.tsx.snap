@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Load Component render Load 1`] = `
+<ActivityIndicator
+  color="#FF8200"
+  style={
+    {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+  testID="loading-indicator"
+/>
+`;

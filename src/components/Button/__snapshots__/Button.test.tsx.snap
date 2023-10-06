@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Component render Load 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 8,
+      "elevation": 5,
+      "height": 40,
+      "justifyContent": "center",
+      "marginBottom": 10,
+      "opacity": 1,
+      "shadowColor": "#00000066",
+      "shadowOffset": {
+        "height": 3,
+        "width": 5,
+      },
+      "shadowOpacity": 0.5,
+      "shadowRadius": 2,
+      "width": "70%",
+    }
+  }
+  testID="component-button"
+>
+  <Text
+    style={
+      [
+        {
+          "color": "#1F2937",
+          "fontFamily": "PublicSans_700Bold",
+          "fontSize": 14,
+          "textDecorationColor": "#FF8200",
+        },
+      ]
+    }
+    type="accept"
+  >
+    teste
+  </Text>
+</View>
+`;

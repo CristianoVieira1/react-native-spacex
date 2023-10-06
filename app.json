@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "react-native-spacex",
+    "slug": "react-native-spacex",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
